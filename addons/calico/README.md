@@ -16,7 +16,7 @@
 
 ### 如何知道你要安装的 calico 版本
 
-- 你看下你的 kubernetes 是哪个版本, 再从 [system requirements](https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements) 确认 calico 是否匹配了你的 kubernetes 版本.
+- 你看下你的 kubernetes 是哪个版本, 再从 [supported-versions](https://projectcalico.docs.tigera.io/getting-started/kubernetes/requirements#supported-versions) 确认 calico 是否匹配了你的 kubernetes 版本.
 
 - 下载指定版本的 calico
 
